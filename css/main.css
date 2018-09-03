@@ -1,7 +1,34 @@
-body {
-  /* background: black; */
-}
-
 .container {
   display:flex;
+}
+
+.right img {
+  height: 60px;
+  width: 150px;
+}
+
+form {
+  flex-direction: column;
+}
+
+.groove {
+  border-style: groove
+}
+
+strong {
+  color: blue;
+}
+
+#account {
+  text-align: center;
+}
+
+.policy {
+  width: 200px;
+  text-align: left, center;
+}
+
+.bottom img {
+  display: flex;
+
 }
